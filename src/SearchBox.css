@@ -1,0 +1,23 @@
+.SearchBox {
+  text-align: center;
+  margin: 0 auto 20px;
+  padding: 15px;
+  background: rgba(30, 41, 59, 0.5);
+  border-radius: 12px;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  max-width: 400px;
+  width: 100%;
+}
+
+.SearchBox form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.SearchBox p {
+  color: #ef4444;
+  font-weight: 600;
+  font-size: 0.85rem;
+  margin-top: 5px;
+}
