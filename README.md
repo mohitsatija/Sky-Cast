@@ -32,7 +32,6 @@ A modern and responsive weather application built with **React** and **Vite** th
 
 <img width="100%" alt="Sky-Cast Preview" src="https://via.placeholder.com/1200x600.png?text=Sky-Cast+Preview">
 
-> Replace this image with your project screenshot.
 
 ---
 
