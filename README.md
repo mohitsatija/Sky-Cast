@@ -4,6 +4,12 @@ A modern and responsive weather application built with **React** and **Vite** th
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [View Sky-Cast Live](https://sky-cast-nine-eosin.vercel.app)
+
+---
+
 ## ✨ Features
 
 - 🔍 **City Search** — Search weather details by city name
@@ -25,10 +31,6 @@ A modern and responsive weather application built with **React** and **Vite** th
 - **Icons:** Lucide React
 - **API:** OpenWeather API
 - **Deployment:** Vercel
-
----
-
-
 
 ---
 
@@ -151,9 +153,6 @@ npm run build     # Create production build
 npm run preview   # Preview production build
 npm run lint      # Run ESLint
 ```
-
----
-
 
 ---
 
