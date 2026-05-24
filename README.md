@@ -28,9 +28,6 @@ A modern and responsive weather application built with **React** and **Vite** th
 
 ---
 
-## 📸 Preview
-
-<img width="100%" alt="Sky-Cast Preview" src="https://via.placeholder.com/1200x600.png?text=Sky-Cast+Preview">
 
 
 ---
